@@ -1,0 +1,13 @@
+{
+    "Simulator Target Bundle":"com.pss.push",
+    "aps":{
+        "alert":{
+            "title":"预告更改2",
+            "body":"【艺术展】你的订阅的预告已变更》》》"
+        },
+        "badge":1,
+        "sound":"default",
+        "thread-id":"第一组"
+    },
+    "url":"xxx"
+}

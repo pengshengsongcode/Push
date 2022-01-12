@@ -1,0 +1,7 @@
+{
+    "Simulator Target Bundle":"com.pss.push",
+    "aps":{
+        "content-available":1
+    },
+    "url":"xxx"
+}
